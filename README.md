@@ -1,2 +1,2 @@
 # tlsgen
-Tls Generator Utility
+TLS Cert Generator Utility
